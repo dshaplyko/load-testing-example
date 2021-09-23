@@ -1,0 +1,65 @@
+{
+  "config": {
+    "target": "https://test.com/",
+    "processor": "../helper.js",
+    "phases": [
+      {
+        "duration": 60,
+        "arrivalRate": 10
+      }
+    ],
+    "variables": {
+      "descriptions": [
+        "Sittenwidrigkeit einer Vereinbarung bezüglich eines neu zu vereinbarenden Einheitspreises für Mehrmengen bei auffälligen, wucherähnlichen Missverhältnis zur Bauleistung; Vermutung eines sittlich verwerflichen Gewinnstrebens eines Auftragnehmers bei Vorliegen eines um mehr als das Achthundertfache überhöhten Einheitspreises für Mehrmengen; Entkräftung einer Vermutung eines sittlich verwerflichen Gewinnstrebens eines Auftragnehmers bei Einsetzung von unüblich niedrigen Einheitspreisen für Mehrmengen durch denselben; Vereinbarung der Vergütung von Mehrmengen nach dem üblichen Preis als Folge einer nichtigen Vereinbarung über die Bildung eines neuen Preises auf der Grundlage eines überhöhten Einheitspreises",
+        "Ende 2007: Beklagter gibt eine Umbaumaßnahme in Auftrag; hat zuvor bereits die Immobilie in Form eines Einkaufsmarkts an eine Grundstückgesellschaft veräußert. Hat sich der Grundstücksgesellschaft gegenüber verpflichtet, den Markt entsprechend den Vorstellungen der Mieterin zu erweitern, um so die Voraussetzungen für eine Verlängerung des Mietvertrags zu schaffen Architekt S beauftragt mit Durchführung und Bauaufsicht für die Immobilie; er hatte eine Architektenvollmacht (somit bevollmächtigt, den Beklagten in sämtlichen Angelegenheiten bzgl. Bauvorhaben zu vertreten) Aufgrund vom Architekten erstellten Leistungsbeschreibung: Vertragsschluss – Pauschalpreis 267.750 € Architekt führt auf Bauaufsicht Architekt hat Vollmacht vom 01.07.2007 bis über den Tod des Beklagten hinaus vorbehaltlich Widerrufs 29.07.2008: Abnahme der Arbeiten; Mängel, die hier geltend gemacht werden, werden nicht gerügt",
+        "Streitgegenstand: Klägerin (Unternehmer) Restwerklohnanspruch; dagegen Beklagte (Besteller) Widerklage mit Einrede der Verjährung auf Anspruch auf Ersatz der Mängelbeseitigungskosten Hindernis: Eintritt der Verjährung (lt. OLG) VOB/B einbezogen LG hat Klägerin auf Mängelbeseitigungskosten verurteilt i.H.v. 42.166 € und 19.000 € Minderung; Grund: Fehlen von Abnahme und Abnahmefiktion -> daher Schadensersatzanspruch aus § 4 Nr. 7 S. 2 VOB/B. Aber: im Zeitpunkt der Erhebung der Widerklage bereits verjährt gem. § 195 BGB (regelmäßige dreijährige Verjährungsfrist) Außerdem: § 638 I BGB a.F. sei auf Gewährleistungsansprüche vor Abnahme nicht einschlägig, da im solchen Fall die Ansprüche im VOB/B ausdrücklich geregelt sind. § 4 Nr. 7 VOB/B enthalte im Gegensatz zu § 13 VOB/B keine Regelung zur Verjährung, sodass § 13 Nr. 4 VOB/B auf diese Ansprüche keine Anwendung finde und diese daher der Regelverjährung unterliegen",
+        "Die Mandatin hat einen Architekten beauftragt, Außenarbeiten an einem Eigenheim zu überwachen und durchführen zu lassen. Die Außenarbeiten beinhalteten die Fliesenverlegung auf der Terrasse durch die Firma Müller. Die Arbeiten wurden fertiggestellt und bezahlt. Zwei Jahre später zeigten sich jedoch Risse in den Natursteinplatten, diese beginnen auch sich zu abzulösen. Jetzt möchte die Mandantin Schadensersatz. Ein privater Gutachter wurde bestellt und von der Mandatin bezahlt. Während des ersten Verfahrens hat die Mandantin das Haus verkauft. Die Schadensersatzansprüche gegen die Firma Müller laufen weiter.",
+        "Der Mandant hat einen Architekten 2002 mit dem Bau einer Wohnung beauftragt. Die Wohnung wurde errichtet, allerdings innheralb der fünfjährigen Gewährleistungsfrist weder abgenommen noch die wurde Abnahme verweigert. Wegen Mängeln an der Wohnung hat der Mandant 2010 Schadensersatzansprüche angezeigt. Der Gegner behauptet Ansprüche aus Mängelgewährleistung seien längst verjährt.",
+        "Der Mandant, ein Bauunternehmer, musste einem seiner Subunternehmer ausserordentlich kündigen, weil dieser wichtige baustellentechnische Sicherungen missachtet hat. Der Unternehmer bestreitet dies und verklagt den Mandanten auf entgangenen Gewinn. Der Mandant fragt sich, ob er zahlen sollte.",
+        "Der Mandant, ein Architekt, wird auf Schadensersatz verklagt. Der Gegner behauptet, der Architekt habe den Subunternhemer für Dacharbeiten nicht ausreichend überwacht.  Der Mandant hat einen Architektenvertrag gemäß HOAI mit dem Kläger abgeschlossen.  Der Mandat ahnte, dass der Subunternehmer finanzielle Schwierigkeiten hatte und kurz darauf Insolvenz anmeldete.  Der Gegner hat nun ein Gutachten vorlegt, in dem die Mängel am Dach aufgeführt sind. Der Mandant will nun wissen ob er haftet wenn der zahlungsunfähige Subunternehmer Fehler gemacht hat.",
+        "Der Mandant, ein Fliesenleger, möchte seinen Bauherrn auf ausstehenden Werklohn verklagen. Er habe die Fliesenarbeiten gemäß den Architekten-Planungen ausgeführt. Diese seien allerdings fehlerhaft gewesen, was er aber nicht wusste und auch nicht wissen konnte. Das hätte aber dann zu den späteren Mängeln an den Fliesenarbeiten geführt. Bekommt er seinen Lohn?",
+        "Der Mandant hat ein Architektenbüro mit dem Bau eines Gebäudes beauftragt. Er behauptet, das aufgrund der Verwendung unbrauchbarer Werkstoffe zur Abdichtung der Fassade, zur Absackungen einzelner Gebäudeteile gekommen sei. Die Verwendung der unbrauchbaren Baustofffes sei ihm vom Architketenbüro arglistig verschwiegen worden. Der Mandant begehrt Schadensersatz, fürchtet aber das seine Ansprüche verjährt sein könnten.",
+        "Der Mandant war mit dem Umbau und der Renovierung eines Geschäftshauses beauftragt, hierzu gehörten Arbeiten an der Fassade, wo eine Verkleidung angebracht werden sollte. Der Auftraggeber behauptet Mängel an der Fassade. Der Mandant legt einen Vertrag vor, wonach die dort vereinbarte Verjährungsfrist von 180 Monaten \"auf Dichtigkeit der Fassade\". Der Mandant will wissen ob das wirksam ist?",
+        "Mandant schloss als Generalunternehmer einen VOB-Vertrag über Bau eines Einkaufszentrum. Der Gegner sollte als Nachunternehmer Leistungen erbringen, auch einen Schornstein einbauen den der Gegner kaufen sollte. Das tat der Gegner aber nicht und der Mandant schickte ihm eine Verzugsmeldung, mit dem Inhalt der Schornstein sei noch nicht montiert. Dennoch baute der Gegner den Schornstein nicht ein, weshalb der Mandant unter Fristsetzung kündigte und den Schornstein von einem Dritten einbauen lies. Der Gegner will nun, das der unter Eigentumsvorbehalt gekaufte Schornstein vom Mandanten bezahlt wird. Zu Recht?",
+        "Mandant war vom Gegner sukzessive mit unterschiedlichsten Bauarbeiten beauftragt worden. Der Mandant erhielt immer wieder Zahlungen auf Schlussrechnungen, allerdings überzahlte und verrechnete der Gegner die Rechnungsbeträge einige Male. Jedoch hatte sich der Gegner immer wieder Sicherheitseinbehalte wegen Zusatzarbeiten vorbehalten. Diese begehrt der Mandant nun, weil er der Aufassung ist das es sich nicht um ein Pauschalangebot, sondern um zusätzlich zu vergütende Arbeiten handelte.",
+        "Die Mandantin möchte Werklohn vom Gegner. Sie war vom Gegner mit der Errichtung eines Einfamilienhauses beauftragt worden, dieses sollte auf einem bereits bebauten Grundstück errichtet werde. Es ist streitg ob ein Nachtragsangebot Gegenstand des Vertrages wurde. Es stellte sich heraus, dass der Keller zu tief ausgehoben worden war. Dennoch wurde das Anwesen errichtet. Die Parteien sind uneins, ob eine Abnahme erfolgt ist. Sodann stellte die Mandantin eine Schlussrechnung unter Fristsetzung, die die Gegnerin aber nicht beglich. Stattdessen erklärte sie die Minderung und erhob die Einrede des nicht erfüllten Vertrages, da der Mandant die Bodenbeschaffenheit nicht hinreichend beachtet habe.",
+        "Der Mandant (Unternehmer, Gewerk technische Gebäudeausrüstung) hat in einem Bürogebäude eine Kälteversorgungsanlage eingebaut. Grundlage war ein Pauschalvertrag nach VOB/B mit dem Eigentümer. Nach Vertragsabschuss wurden vom Eigentümer zusätzliche Leistungen gefordert. Der Mandant erstellte hierfür ein Nachtragsangebot. Dieses wurde allerdings nicht schriftlich beauftragt. Im Abnahmeprotokoll wurde lediglich festgehalten, dass die zusätzlichen Leistungen noch zu erbringen seien. Der Mandant stellte die zusätzlichen Leistungen in Rechnung. Jedoch bezahlt der Bauherr diese nicht, und zwar mit der Begründung, dass die Leistungen bereits vom Pauschalpreis umfasst seien."
+      ]
+    },
+    "defaults": {
+      "headers": {
+        "authorization": "",
+        "content-type": "application/json"
+      }
+    }
+  },
+  "scenarios": [
+    {
+      "name": "Decisions: Search",
+      "flow": [
+        {
+          "post": {
+            "beforeRequest": "setCorrelationId",
+            "url": "/decisions/_search",
+            "json": {
+              "caseDescription": "{{ descriptions }}",
+              "practiceAreas": [],
+              "legalProfileParams": {
+                "topSimilarFacts": 40,
+                "topActs": 5,
+                "topCases": 5
+              },
+              "factSearchStrategy": {
+                "name": "strategy_2",
+                "options": {
+                  "topSimilarFacts": 40,
+                  "limitFacts": 100
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

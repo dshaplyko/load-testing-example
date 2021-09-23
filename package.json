@@ -1,0 +1,19 @@
+{
+  "name": "performance-testing-artillery",
+  "version": "2.0.0",
+  "description": "Performance testing framework",
+  "scripts": {
+    "test:lge": "./node_modules/.bin/artillery run --output ./reports/report.json ./tests/lge.json",
+    "test:lge-de": "./node_modules/.bin/artillery run --output ./reports/report.json ./tests/lge-de.json",
+    "test:gas": "./node_modules/.bin/artillery run --output ./reports/report.json ./tests/gas.json",
+    "test:las": "./node_modules/.bin/artillery run --output ./reports/report.json ./tests/las.json",
+    "test:las-dev": "./node_modules/.bin/artillery run --output ./reports/report.json ./tests/las-dev.json",
+    "report": "./node_modules/.bin/artillery report --output ./reports/report.html ./reports/report.json"
+  },
+  "author": "dmitryshaplyko@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "artillery": "^1.6.1",
+    "urlencode": "^1.1.0"
+  }
+}
